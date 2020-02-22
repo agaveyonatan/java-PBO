@@ -12,7 +12,7 @@ public class Main {
         do{
             System.out.println("Pilihan: ");
             System.out.println("1. Jajargenjang serta turunan");
-            System.out.println("2. Segitiga serta turunan");
+            System.out.println("2. Lingkaran serta turunan");
             System.out.println("Input Pilihan: ");
             pilihan = input.nextByte();
             
